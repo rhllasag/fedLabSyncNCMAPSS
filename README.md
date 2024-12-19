@@ -27,7 +27,19 @@ Federated experiments using FedAvg (Vanilla FL) are implemented in:
 
 Please consider citing the following manuscript when using code from this repository: 
 
-[Label synchornization strategies for hybrid federated learning](https://doi.org/10.1016/j.ress.2024.110751)
+```@article{LLASAGROSERO2025110751,
+title = {Label synchronization strategies for hybrid federated learning},
+journal = {Reliability Engineering & System Safety},
+volume = {256},
+pages = {110751},
+year = {2025},
+issn = {0951-8320},
+doi = {https://doi.org/10.1016/j.ress.2024.110751},
+url = {https://www.sciencedirect.com/science/article/pii/S0951832024008226},
+author = {Raúl {Llasag Rosero} and Catarina Silva and Bernardete Ribeiro and Melania Albisser and Martin Brutsche and Manuel {Arias Chao}},
+keywords = {Artificial intelligence, Federated learning, Predictive maintenance, Condition-based maintenance}
+}
+```
 
 Copyright (c) by Raúl Llasag Rosero
 
