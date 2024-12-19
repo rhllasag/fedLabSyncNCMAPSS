@@ -23,7 +23,7 @@ doi: 10.5281/zenodo.1234
 url: "https://doi.org/10.5281/zenodo.1234"
 type: journal-article
 journal: "Reliability Engineering & System Safety"
-volume: "256"
-issue: "110751"
+volume: 256
+issue: 110751
 year: 2025
-date-released: 202
+date-released: 2024-12-16
