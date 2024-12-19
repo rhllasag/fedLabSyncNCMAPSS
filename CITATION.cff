@@ -19,7 +19,9 @@ authors:
   orcid: "https://orcid.org/0000-0001-6134-3582"
 title: "Label synchronization strategies for hybrid federated learning"
 version: 2.0.4
-identifiers: 10.1016/j.ress.2024.110751
+identifiers:
+  - type: doi
+    value: 10.1016/j.ress.2024.110751
 date-released: 2024-12-16
 url: "https://doi.org/10.1016/j.ress.2024.110751"
 preferred-citation:
@@ -41,7 +43,9 @@ preferred-citation:
   - family-names: "Arias Chao"
     given-names: "Manuel"
     orcid: "https://orcid.org/0000-0001-6134-3582"
-  identifiers: "10.0000/00000"
+  identifiers:
+    - type: doi
+      value: 10.1016/j.ress.2024.110751
   journal: "Reliability Engineering & System Safety"
   title: "Label synchronization strategies for hybrid federated learning"
   month: 4
