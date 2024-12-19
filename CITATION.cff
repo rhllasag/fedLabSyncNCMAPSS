@@ -18,12 +18,34 @@ authors:
   given-names: "Manuel"
   orcid: "https://orcid.org/0000-0001-6134-3582"
 title: "Label synchronization strategies for hybrid federated learning"
-version: 2.0.4
 doi: 10.1016/j.ress.2024.110751
-journal: "Reliability Engineering & System Safety"
-month: 4
-issue: 110751
-volume: 256
-year: 2025
 date-released: 2024-12-16
 url: "https://doi.org/10.1016/j.ress.2024.110751"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Llasag Rosero"
+    given-names: "Raúl"
+    orcid: "https://orcid.org/0000-0001-7020-1439"
+  - family-names: "Silva"
+    given-names: "Catarina"
+    orcid: "https://orcid.org/0000-0002-5656-0061"
+  - family-names: "Bernardete"
+    given-names: "Ribeiro"
+    orcid: "https://orcid.org/0000-0002-9770-7672"
+  - family-names: "Albisser"
+    given-names: "Melania"
+    - family-names: "Brustche"
+    given-names: "Martin"
+  - family-names: "Arias Chao"
+    given-names: "Manuel"
+    orcid: "https://orcid.org/0000-0001-6134-3582"
+  doi: "10.0000/00000"
+  journal: "Reliability Engineering & System Safety"
+  title: "Label synchronization strategies for hybrid federated learning"
+  month: 4
+  issue: 110751
+  volume: 256
+  year: 2025
+
+

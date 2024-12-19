@@ -29,6 +29,9 @@ Please consider citing the following manuscript when using code from this reposi
 
 [Label synchornization strategies for hybrid federated learning](https://doi.org/10.1016/j.ress.2024.110751)
 
+Copyright (c) by Raúl Llasag Rosero
+
+
 # Installation Prerequisites 
 
 - Python > 3.10
