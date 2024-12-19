@@ -17,11 +17,19 @@ This notebook reused the [inception-based CNN network](https://doi.org/10.36001/
 
 The collaborative problem, simulated using the [Federated Label Synchornization FedLabSync algorithm](https://doi.org/10.1007/s10845-023-02298-8), uses [Tensorflow tf.distribute.Strategy](https://www.tensorflow.org/guide/distributed_training) to distribute the work along multiple GPUs.  To run this code, a cluster of GPUs must be configured. Hyperparameters for distributed Machine Learning experiments are configured in "Global Variables" Section, e.g.,  number of nodes (parties participating in the ferated network) and the current node for which the federated model is trained. 
 
-Federated experiments are implemented in:
+Federated experiments using FedMulLabSync are implemented in:
 
 - Collaborative prediction using NCMAPSS.ipynb
 
-# Prerequisites 
+Federated experiments using FedAvg (Vanilla FL) are implemented in:
+
+- Federated Averaging for RUL Estimation.ipynb
+
+Please consider citing the following manuscript when using code from this repository: 
+
+[Label synchornization strategies for hybrid federated learning](https://doi.org/10.1016/j.ress.2024.110751)
+
+# Installation Prerequisites 
 
 - Python > 3.10
 - Anaconda > 3.11 
