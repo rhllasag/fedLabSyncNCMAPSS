@@ -17,15 +17,13 @@ authors:
   - family-names: "Arias Chao"
     given-names: "Manuel"
     orcid: "https://orcid.org/0000-0001-6134-3582"
-title: "Label synchronization strategies for hybrid federated learning"
+title: Label synchronization strategies for hybrid federated learning
 version: 2.0.4
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.1234
+doi: 10.5281/zenodo.1234
 url: "https://doi.org/10.5281/zenodo.1234"
 type: journal-article
 journal: "Reliability Engineering & System Safety"
 volume: "256"
 issue: "110751"
 year: 2025
-date-released: 2024-12-16
+date-released: 202
