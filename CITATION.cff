@@ -1,12 +1,30 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "Please cite this manuscript when using code from this repository."
 authors:
-  - family-names: Druskat
-    given-names: Stephan
-    orcid: https://orcid.org/1234-5678-9101-1121
-title: "My Research Software"
+  - family-names: "Llasag Rosero"
+    given-names: "Raúl"
+    orcid: "https://orcid.org/0000-0001-7020-1439"
+  - family-names: "Silva"
+    given-names: "Catarina"
+    orcid: "https://orcid.org/0000-0002-5656-0061"
+  - family-names: "Bernardete"
+    given-names: "Ribeiro"
+    orcid: "https://orcid.org/0000-0002-9770-7672"
+  - family-names: "Albisser"
+    given-names: "Melania"
+  - family-names: "Brustche"
+    given-names: "Martin"
+  - family-names: "Arias Chao"
+    given-names: "Manuel"
+    orcid: "https://orcid.org/0000-0001-6134-3582"
+title: "Label synchronization strategies for hybrid federated learning"
 version: 2.0.4
 identifiers:
   - type: doi
     value: 10.5281/zenodo.1234
 date-released: 2021-08-11
+journal: "Reliability Engineering & System Safety"
+month: 4
+issue: 110751
+volume: 256
+year: 2025
